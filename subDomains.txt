@@ -1,0 +1,12 @@
+Valid domain:  https://www.bbc.com
+Valid domain:  https://m.bbc.com
+Valid domain:  https://sip.bbc.com
+Valid domain:  https://store.bbc.com
+Valid domain:  https://search.bbc.com
+Valid domain:  https://beta.bbc.com
+Valid domain:  https://shop.bbc.com
+Valid domain:  https://staff.bbc.com
+Valid domain:  https://autodiscover.bbc.com
+Valid domain:  https://stage.bbc.com
+Valid domain:  https://ssl.bbc.com
+Valid domain:  https://test.bbc.com
